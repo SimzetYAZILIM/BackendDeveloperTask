@@ -1,4 +1,4 @@
-﻿# ŞimşekHttpServer
+﻿# SimzetHttpServer
 
 ## Tanım
 
